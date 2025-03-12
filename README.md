@@ -1,3 +1,8 @@
 # Redux + React Redux Toolkit
 
-Practica para aprender el manejo de Redux Toolkit y reforzar conocimientos y conceptos de Redux
+Short exercise to learn how to use the Redux Toolkit and reinforce Redux knowledge and concepts.
+
+- CRUD-style app focused on movies managment
+  -- React for the frontend
+  -- Redux for state management
+  -- Redux Toolkit is only used as a practice
